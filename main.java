@@ -7,7 +7,10 @@ public class main {
 					+ "[1] Ingreso\n[2] Gasto");
 			int opcion = input.nextInt();
 			if (opcion == 1) {
-				
+				long valor = 0;
+				int[] fecha;
+				String motivo;
+				boolean debito; 
 			}
 			else if (opcion == 2) {
 				
